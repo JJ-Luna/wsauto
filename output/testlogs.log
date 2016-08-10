@@ -1,0 +1,26 @@
+
+Aug 10, 2016 05:40:47 EDT, ~~ EXEC: Main Script.
+Aug 10, 2016 05:40:47 EDT, -- INFO: Environment under test: QA. Test Scope: REGRESSION. Test System: FULL. Browser: FIREFOX. Log level: MAXIMUM
+Aug 10, 2016 05:40:59 EDT, ~~ EXEC: Main FULL Script.
+Aug 10, 2016 05:40:59 EDT, ~~ EXEC: Executiong login redirection to: .help
+Aug 10, 2016 05:41:01 EDT, ~~ EXEC: Executing verification of the lookup page
+Aug 10, 2016 05:41:02 EDT, -- PASS: Lookup -- Logo titleAlert textbox.
+Aug 10, 2016 05:41:02 EDT, -- PASS: Lookup -- First Name textbox.
+Aug 10, 2016 05:41:03 EDT, xx FAIL: Lookup -- Last Name textbox. (First Name -- v.s.-- Last Name )
+Aug 10, 2016 05:41:03 EDT, -- PASS: Lookup -- Agreement checkbox.
+Aug 10, 2016 05:41:03 EDT, -- PASS: Lookup -- Submit button.
+Aug 10, 2016 05:41:03 EDT, ~~ EXEC: Executiong redirection to: www
+Aug 10, 2016 05:41:28 EDT, -- PASS: www title
+Aug 10, 2016 05:41:31 EDT, -- PASS: support title
+Aug 10, 2016 05:41:33 EDT, -- PASS: cart title
+Aug 10, 2016 05:41:35 EDT, -- INFO: Test Metrics ::
+Exec. Time: 47 secs.
+Tests     : 8
+Pass      : 7
+Fail      : 1
+Warnings  : 0
+Errors    : 0
+Aug 10, 2016 05:41:35 EDT, -- INFO: ******************** END ********************
+Aug 10, 2016 05:41:35 EDT, -- INFO: *********** MAIN SCRIPT COMPLETED ***********
+Aug 10, 2016 05:41:35 EDT, -- INFO: ******************** END ********************
+Aug 10, 2016 05:41:39 EDT, XX ERROR: An error ocurred while trying to send the email. -- Could not convert socket to TLS
