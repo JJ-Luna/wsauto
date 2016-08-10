@@ -1,0 +1,2 @@
+# wsauto\
+Selenium for WS
